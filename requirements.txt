@@ -1,0 +1,2 @@
+bokeh>=1.1.0
+bokeh_wordcloud2>=0.9
